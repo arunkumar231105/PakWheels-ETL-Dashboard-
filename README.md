@@ -37,6 +37,10 @@ pakwheels_data_project/
 ├── requirements.txt              # Python dependencies
 └── README.md
 
+
+
+
+
 ## ⚙️ Setup and Execution
 
 ### Prerequisites
