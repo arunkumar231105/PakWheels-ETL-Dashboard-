@@ -38,9 +38,6 @@ pakwheels_data_project/
 └── README.md
 
 
-
-
-
 ## ⚙️ Setup and Execution
 
 ### Prerequisites
