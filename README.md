@@ -21,22 +21,6 @@ The pipeline follows a standard **Extract, Transform, Load (ETL)** architecture 
 | **Database** | `SQLAlchemy`, `pyodbc` | Connecting Python to and loading data into SQL Server. |
 | **Deployment** | `streamlit` | Creating and hosting the interactive web dashboard. |
 
-## 📁 Project Structure
-
-pakwheels_data_project/
-├── data/
-│   ├── raw_car_data.csv          # Raw scraped listings
-│   ├── clean_car_data.csv        # Cleaned + processed dataset
-│   └── price_distribution.png    # Exported plot from analysis
-│
-├── src/
-│   ├── etl.py                    # Scrape → Clean → Load into SQL pipeline
-│   └── app.py                    # Streamlit dashboard
-│
-├── .gitignore
-├── requirements.txt              # Python dependencies
-└── README.md
-
 
 ## ⚙️ Setup and Execution
 
